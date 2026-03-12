@@ -4,11 +4,11 @@ const Community = () => {
   const navigate = useNavigate();
 
   const joinWhatsApp = () => {
-    window.open("https://chat.whatsapp.com/DuakfwXE2wp2CfrJHPHauv?mode=gi_t", "_blank");
+    window.open("https://chat.whatsapp.com/EAZg7u9lnYSHMVQYfwXPvP", "_blank");
   };
 
   const joinTelegram = () => {
-    window.open("https://t.me/+sQ948kHImY5lNjk0", "_blank");
+    window.open("https://t.me/+mC3KerwdSrY1M2I0", "_blank");
   };
 
   return (

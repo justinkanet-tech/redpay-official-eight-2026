@@ -49,7 +49,7 @@ const BuyRPC = () => {
           <div className="flex items-center justify-between rounded-lg bg-[#250000] p-4 text-lg font-bold">
             MONIEPOINT MFB
             <button
-              onClick={() => copyText("OPAY")}
+              onClick={() => copyText("MONIEPOINT")}
               className="rounded-md border border-primary bg-[#400000] px-3 py-2 text-sm transition-colors hover:bg-[#5a0000]"
             >
               Copy
